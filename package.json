@@ -1,0 +1,30 @@
+{
+  "name": "daniel-home-sessions-2-weather-cli-app",
+  "version": "1.0.0",
+  "description": "Simple Weather App that accepts user input and return weather informations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boluwatifes/daniel-home-sessions-2-weather-cli-app.git"
+  },
+  "keywords": [
+    "Weather",
+    "App",
+    "Command",
+    "line"
+  ],
+  "author": "Bamidele Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boluwatifes/daniel-home-sessions-2-weather-cli-app/issues"
+  },
+  "homepage": "https://github.com/Boluwatifes/daniel-home-sessions-2-weather-cli-app#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.0.6"
+  }
+}
