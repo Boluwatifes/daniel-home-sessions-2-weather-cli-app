@@ -1,6 +1,6 @@
 'use strict'
 
-let lib = require('./lib/lib.js');
+let lib = require('./lib/app.js');
 let chalk = require('chalk');
 let inquirer = require('inquirer');
 let figlet = require('figlet');
